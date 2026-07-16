@@ -59,6 +59,6 @@ The project includes more than 20 visualizations, such as:
 
 This project helped in understanding the Titanic dataset through data cleaning, visualization, and exploratory data analysis. The insights obtained show how different passenger characteristics influenced survival during the Titanic disaster.
 
----
+---=
 
 **Created by:** Dushyant Sharma
